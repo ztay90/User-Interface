@@ -95,7 +95,7 @@ nav a {
 .title h1 {
 	font-size: 5.5rem;
 	margin-bottom: 0;
-	margin-right: 200px;
+	margin-right: 100px;
 }
 img {
 	display: inline-block;
@@ -103,7 +103,7 @@ img {
 .title a {
 	display: inline-block;
 	margin-top: 15px;
-	margin-right: 200px;
+	margin-right: 100px;
 }
 .button {
 	text-decoration: none;
@@ -118,7 +118,7 @@ section .info1 {
 	display: inline-block;
 	width: 100%;
 	text-align: center;
-	margin: 200px 0 50px 0;
+	margin: 40px 0 50px 0;
 }
 section .info1 .first-row {
 	display: inline-block;
@@ -168,8 +168,27 @@ section .info2 p {
 }
 
 footer {
-	margin: 100px 0 0 225px;
+	margin: 50px 0 0 225px;
 }
 footer h5 {
 	margin-bottom: 20px;
+}
+footer .address3 {
+	margin: 15px 0;
+}
+footer .copyright {
+	
+	font-size: .9rem;
+	margin: 70px 0 40px 350px;
+}
+
+.line {
+	margin: 100px 0 0 155px;
+	width: 75%;
+	border-bottom: 1px solid black;
+}
+.line2 {
+	margin: 40px 0 0 155px;
+	width: 75%;
+	border-bottom: 1px solid black;
 }
