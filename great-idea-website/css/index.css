@@ -64,3 +64,112 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+header {
+	width: 94%;
+	display: inline-block;
+	margin: 3%
+}
+nav {
+	display: inline-block;
+	width: 85%;
+	text-align: center;
+}
+nav a {
+	margin: 3%;
+	text-decoration: none;
+	color: gray;
+}
+
+.title-section {
+	display: inline-block;
+	max-width: 100%;
+	margin: 5% 0 0 25%;
+	
+}
+.title-section .title {
+	display: inline-block;
+	text-align: center;
+	
+	
+}
+.title h1 {
+	font-size: 5.5rem;
+	margin-bottom: 0;
+	margin-right: 200px;
+}
+img {
+	display: inline-block;
+}
+.title a {
+	display: inline-block;
+	margin-top: 15px;
+	margin-right: 200px;
+}
+.button {
+	text-decoration: none;
+	padding: 5px 40px;
+	border: 1px solid black;
+	color: black;
+	font-size: 1.2rem;
+	text-align: center;
+}
+
+section .info1 {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	margin: 200px 0 50px 0;
+}
+section .info1 .first-row {
+	display: inline-block;
+}
+section .info1 .second-row {
+	display: inline-block;
+}
+section .info1 h4 {
+	text-align: left;
+	font-size: 1.1rem;
+}
+section .info1 p { 
+	display: inline-block;
+	max-width: 435px;
+	text-align: left;
+	font-size: 1rem;
+}
+.middle-img {
+	display: block;
+	margin: 0 auto;
+}
+
+section .info2 {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	margin-top: 50px;
+}
+section .info2 .col1 {
+	display: inline-block;
+}
+section .info2 .col2 {
+	display: inline-block;
+}
+section .info2 .col3 {
+	display: inline-block;
+}
+section .info2 h4 {
+	text-align: left;
+	font-size: 1.1rem;
+}
+section .info2 p { 
+	display: inline-block;
+	max-width: 290px;
+	text-align: left;
+	font-size: 1rem;
+}
+
+footer {
+	margin: 100px 0 0 225px;
+}
+footer h5 {
+	margin-bottom: 20px;
+}
